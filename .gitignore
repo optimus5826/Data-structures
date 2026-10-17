@@ -1,0 +1,17 @@
+# Binaries and executables
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Build and IDE directories
+.vscode/
+.idea/
+build/
+bin/
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
