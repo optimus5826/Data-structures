@@ -27,7 +27,7 @@ Plus, every lesson includes an **🎓 Exam Corner**:
 
 - [ ] **Module 0: C++ Fundamentals for DSA**
   - [x] [01_anatomy_of_cpp](file:///c:/Users/sarvadnya/Desktop/DSA/00_cpp_basics/01_anatomy_of_cpp.md) — Compilation pipeline, `iostream`, structure of a C++ file
-  - [ ] `02_variables_datatypes_io` — Memory size, primitive types, `cin`/`cout`
+  - [x] [02_variables_and_datatypes](file:///c:/Users/sarvadnya/Desktop/DSA/00_cpp_basics/02_variables_and_datatypes.md) — Memory size, primitive types, `cin`/`cout`
   - [ ] `03_control_flow` — Conditionals (`if-else`, `switch`), loops (`for`, `while`, `do-while`)
   - [ ] `04_functions_and_parameters` — Pass by Value vs Pass by Reference (`&`) *(Exam favorite!)*
   - [ ] `05_pointers_and_memory` — Address-of `&`, Dereference `*`, Stack vs Heap, `new`/`delete`
