@@ -26,7 +26,7 @@ Plus, every lesson includes an **🎓 Exam Corner**:
 ## 🗺️ Complete Syllabus & Progress Tracker
 
 - [ ] **Module 0: C++ Fundamentals for DSA**
-  - [ ] `01_hello_world_and_syntax` — Compilation pipeline, `iostream`, structure of a C++ file
+  - [x] [01_anatomy_of_cpp](file:///c:/Users/sarvadnya/Desktop/DSA/00_cpp_basics/01_anatomy_of_cpp.md) — Compilation pipeline, `iostream`, structure of a C++ file
   - [ ] `02_variables_datatypes_io` — Memory size, primitive types, `cin`/`cout`
   - [ ] `03_control_flow` — Conditionals (`if-else`, `switch`), loops (`for`, `while`, `do-while`)
   - [ ] `04_functions_and_parameters` — Pass by Value vs Pass by Reference (`&`) *(Exam favorite!)*
